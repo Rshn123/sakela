@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "404173696266",
+    "firebase_url": "https://sakela-73a32.firebaseio.com",
+    "project_id": "sakela-73a32",
+    "storage_bucket": "sakela-73a32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404173696266:android:3a2bdfbb9380cb261c9ef3",
+        "android_client_info": {
+          "package_name": "com.example.sakela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404173696266-4t2v3v05rqn5rj9894aabbf3gd6n87ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyPNosbJk6ltmYI4jBlzU8MWWca598KVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404173696266-4t2v3v05rqn5rj9894aabbf3gd6n87ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
